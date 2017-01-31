@@ -40,3 +40,19 @@ function prvo(x)
 
 x = 2;
 start = false;
+
+function stst()
+{
+	if (start) 
+		{
+			clearInterval(a);
+			start = false;
+			document.getElementById("button").innerHTML = "START";
+		} 
+	else 
+		{	
+			a = window.setInterval("prvo(x); x++;", 1);
+			start = true;
+			document.getElementById("button").innerHTML = "STOP";
+		}
+}
