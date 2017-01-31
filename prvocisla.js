@@ -37,3 +37,6 @@ function prvo(x)
     }
   }
 }
+
+x = 2;
+start = false;
