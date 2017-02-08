@@ -18,7 +18,7 @@ function prvo(x)
   }
   else {
     odmo = Math.sqrt(x);
-    test = 3;
+    test = 1;
     delit = 1;
 
     while (test<=odmo && delit!=0)
