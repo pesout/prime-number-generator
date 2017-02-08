@@ -51,7 +51,7 @@ function stst()
 		} 
 	else 
 		{	
-			a = window.setInterval("prvo(x); x++;", 1);
+			a = window.setInterval("prvo(x); x++;", 500);
 			start = true;
 			document.getElementById("button").innerHTML = "STOP";
 		}
