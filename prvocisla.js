@@ -2,7 +2,7 @@ function vypis(x)
 {
     if (x!=0)
     {
-      document.getElementById("vystup").innerHTML = x;
+      document.getElementById("vystup").innerHTML = x; //If is a prime number, than display
     }
 }
 
