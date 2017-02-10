@@ -6,6 +6,7 @@ function vypis(x)
     }
 }
 
+
 function prvo(x)
 {
 
@@ -41,7 +42,8 @@ function prvo(x)
 x = 2;
 start = false;
 
-function stst()
+
+function stst() //a start-stop button
 {
 	if (start) 
 		{
