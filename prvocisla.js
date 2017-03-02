@@ -43,7 +43,7 @@ x = 2;
 start = false;
 
 
-function stst() //a start-stop button
+function stst() //A start-stop button
 {
 	if (start) 
 		{
