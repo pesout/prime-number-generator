@@ -21,7 +21,7 @@ function prvo(x)
     test = 3;
     delit = 1;
 
-    while (test<=odmo && delit!=0) //dividing while is tested number less then the square root
+    while (test<=odmo && delit!=0) //Dividing while is tested number less then the square root
     {
       delit = x % test;
       test = test + 2;
