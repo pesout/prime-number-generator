@@ -34,12 +34,12 @@ function prvo(x)
     {
       vypis(x);
     }
+	  
   }
 }
 
 x = 2;
 start = false;
-
 
 function stst() //A start-stop button
 {
